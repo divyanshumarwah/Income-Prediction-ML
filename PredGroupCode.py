@@ -1,7 +1,6 @@
 """
 Created on Wed Nov 27 16:13:52 2019
 
-@author: Aishwarya
 """
 import pandas as pd
 import lightgbm as lgb
